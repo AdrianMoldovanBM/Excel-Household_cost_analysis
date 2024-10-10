@@ -10,3 +10,5 @@ For example, I discovered that 60.67% of the expenditures go on non-food items l
 Over 63% of our diet is comprised of processed food and only a small portion includes whole foods like fruits, vegetables, eggs, and dairy. This is connected to the fact that I have included eating out in the same category as other foods.
 
 The implemented charts illustrate spending trends, including category-specific breakdowns, spending patterns, monthly averages, and costs evolution.
+
+![Presentation](https://github.com/user-attachments/assets/8aedf2c2-ffc6-426c-a2b6-f1e8692bad7a)
